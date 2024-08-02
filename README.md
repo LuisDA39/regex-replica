@@ -95,7 +95,7 @@ Replaces all occurrences of a pattern in the text with a provided replacement. U
 
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
 
-## Acknowledgements
+## Authors
 
-Special thanks to the contributors and resources that made this project possible.
-
+- [@LuisDA39](https://github.com/LuisDA39)
+- [@samir-bstb](https://github.com/samir-bstb)
