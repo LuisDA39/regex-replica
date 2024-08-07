@@ -1,4 +1,4 @@
-from BMH import BMHMatching
+from bmh_algorithm import BMHMatching
 import tkinter as tk
 from tkinter import messagebox
 from tkinter import ttk
